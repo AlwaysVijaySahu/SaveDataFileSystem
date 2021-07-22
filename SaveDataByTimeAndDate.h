@@ -1,8 +1,7 @@
 /*We can Use this class for storing char* , short* , unsigned short* , int array etc in a file system
 the file will be named by time in HH-MM-SS
 
-CopyRight : Vijay Sahu
-Org       : Accuopt Pvt Ltd*/
+CopyRight : Vijay Sahu*/
 
 
 
