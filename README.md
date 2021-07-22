@@ -1,2 +1,2 @@
 write log
-Logwrite , Create file by date & time ,Socket Programming , Templates , Imageprocessing etc
+Logwrite , Create file by date & time  , Templates  etc
